@@ -4,8 +4,8 @@ export const projects = [
     description: "This is a real time chat application build using chatengine.io API",
       image: '/images/4.jpg',
       tags: ['React', 'ChatEngine', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Rishabh471/vaarta4',
+    visit: 'https://pedantic-hoover-4064f6.netlify.app/',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description:"This is simple drum kit site where you can use your keyboard key to have some fun at your workplace.",
     image: '/images/2.png',
     tags: ['HTML5/CSS3', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Rishabh471/drumkit',
+    visit: 'https://quirky-meitner-e5fd9d.netlify.app/',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "This is a simple advice app which is using radom advice generator API ",
       image: '/images/3.png',
       tags: ['HTML5/CSS3', 'JavaScript','adviceslip'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/Rishabh471/adviceme',
+    visit: 'https://romantic-wing-eee967.netlify.app/',
     id: 2,
   },
 ];
