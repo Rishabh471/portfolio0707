@@ -2,7 +2,7 @@
 
 ### [Live Site](https://dazzling-saha-f3a198.netlify.app/)
 
-![Portfolio Website](https://photos.app.goo.gl/Xjy3Y8tvFZA6k6Wy8)
+![Portfolio Website](https://live.staticflickr.com/65535/51903846288_96b26cdfee_b.jpg)
 
 Welcome to my portfolio.
 
