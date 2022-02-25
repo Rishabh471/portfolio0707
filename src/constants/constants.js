@@ -31,5 +31,5 @@ export const projects = [
 export const TimeLineData = [
   { year: 2020, text: 'Worked as Subject Matter Expert in Bytedance(Tik Tok)', },
   { year: 2021, text: 'Till November alognside my work i worked as a freelance developer and learned tools like React.js/Node.js/mongoDB',},
-  { year:2022, text:"I have tried to work on project and lern new trends",},
+  { year:2022, text:"I have tried to work on project and learn new trends",},
 ];
